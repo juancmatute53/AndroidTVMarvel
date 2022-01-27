@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TvPlayer</string>
+    <string name="browse_title">Streaming Plus Marvel</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Ver Trailer</string>
+    <string name="watch_trailer_2">Gratis</string>
+    <string name="rent_1">Rentar Pelicula</string>
+    <string name="rent_2">por $1.99</string>
+    <string name="buy_1">Comprar Pelicula</string>
+    <string name="buy_2">por $9.99</string>
+    <string name="movie">Pelicula</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
